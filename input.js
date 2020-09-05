@@ -218,3 +218,7 @@ function sortString(string) {
 
 
 
+function game(){
+    let arr=[]
+
+}
